@@ -4,8 +4,8 @@ import Button from "./common/Button";
 function Hero() {
   return (
     <section className="bg-[url(img/Hero.png)] bg-center bg-cover bg-no-repeat">
-      <div className="container py-16 md:py-52 text-center md:text-start">
-        <p className="text-2xl text-primary">AI SDRs (aiDRs)</p>
+      <div className="container py-16 md:py-40 lg:py-52 text-center md:text-start">
+        <p className="text-xl sm:text-2xl text-primary">AI SDRs (aiDRs)</p>
         <h1 className="text-5xl sm:text-6xl md:text-[64px] text-white font-semibold leading-[55px] md:leading-[78px]">
           <span className="font-bold">More</span> leads,
           <br /> <span className="font-bold">less</span> people.
