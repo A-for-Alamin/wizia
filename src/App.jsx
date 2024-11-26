@@ -1,4 +1,5 @@
 import "./App.css";
+import Features from "./components/Features";
 import { Header } from "./components/header";
 import Hero from "./components/Hero";
 import Present from "./components/Present";
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Hero />
       <Present />
+      <Features />
     </>
   );
 }
