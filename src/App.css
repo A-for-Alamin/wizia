@@ -1,0 +1,15 @@
+.swiper-pagination-bullet {
+background:#91edfc !important;
+} 
+
+.swiper-pagination-bullet-active {
+background: #0FF1F6 !important;
+}
+:root{
+    --swiper-navigation-sides-offset: 200px;
+    --swiper-navigation-color:#0FF1F6;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after{
+content: "" !important;
+}
