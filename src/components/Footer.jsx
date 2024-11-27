@@ -1,0 +1,14 @@
+function Footer() {
+  return (
+    <footer className="bg-[#07292F]  px-2 py-6 md:py-10">
+      <div className="container flex justify-between items-center gap-3 flex-wrap">
+        <img src="img/Footerlogo.png" alt="Logo" />
+        <p className="text-white/50">
+          Copyright © 2023 Wizia. All rights reserved.
+        </p>
+      </div>
+    </footer>
+  );
+}
+
+export default Footer;

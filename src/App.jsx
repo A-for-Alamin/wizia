@@ -1,5 +1,6 @@
 import "./App.css";
 import Features from "./components/Features";
+import Footer from "./components/Footer";
 import { Header } from "./components/header";
 import Hero from "./components/Hero";
 import Improve from "./components/Improve";
@@ -19,6 +20,7 @@ function App() {
       <Slider />
       <Improve />
       <Stared />
+      <Footer />
     </>
   );
 }
