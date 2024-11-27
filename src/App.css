@@ -1,15 +1,23 @@
-.swiper-pagination-bullet {
-background:#91edfc !important;
-} 
+/* Font Family Import  */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
 
-.swiper-pagination-bullet-active {
-background: #0FF1F6 !important;
+/* ====== Swiper Slider Style ======  */
+:root {
+  --swiper-navigation-sides-offset: 200px;
+  --swiper-navigation-color: #0ff1f6;
 }
-:root{
-    --swiper-navigation-sides-offset: 200px;
-    --swiper-navigation-color:#0FF1F6;
-}
+/* Swiper Navigation Button  */
 .swiper-button-next::after,
-.swiper-button-prev::after{
-content: "" !important;
+.swiper-button-prev::after {
+  content: "" !important;
+}
+
+/* Swiper Pagination Bullet  */
+.swiper-pagination-bullet {
+  background: #91edfc !important;
+}
+
+/* Swiper Pagination Bullet Active  */
+.swiper-pagination-bullet-active {
+  background: #0ff1f6 !important;
 }

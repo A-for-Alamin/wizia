@@ -12,6 +12,10 @@ export default {
       center: true,
     },
     extend: {
+      fontFamily: {
+        "montserrat" : ["Montserrat"],
+        "workSans" : ["Work Sans"],
+      },
       colors: {
         themeColor: "#002228",
         primary: "#0FF1F6",

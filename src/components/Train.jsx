@@ -6,18 +6,18 @@ function Train() {
       <div className="bg-[url(img/Train.png)] bg-no-repeat bg-cover rounded-3xl">
         <div className="text-center py-20 space-y-[30px]">
           <div>
-            <h1 className="text-4xl md:text-[40px] font-semibold text-white">
+            <h1 className="text-4xl md:text-[40px] font-semibold text-white font-montserrat">
               Train your aiDR on your...
             </h1>
-            <h2 className="text-4xl md:text-[40px] text-primary italic">
+            <h2 className="text-4xl md:text-[40px] text-primary mt-3 italic font-montserrat">
               prefered email st|
             </h2>
           </div>
-          <p className="text-lg sm:text-[24px] text-white/60 px-2 sm:mx-0">
+          <p className="text-lg sm:text-[24px] text-white/60 px-2 sm:mx-0 font-workSans">
             You’re in control. Train your aiDR on elements of your Marketing
             strategy.
           </p>
-          <div className="max-w-[600px] mx-auto grid md:grid-cols-2 place-items-center text-primary text-lg">
+          <div className="max-w-[600px] mx-auto grid md:grid-cols-2 place-items-center text-primary text-lg font-montserrat">
             <div className="flex items-center gap-2">
               <RiCheckboxCircleLine />
               <p>Quick to ramp</p>

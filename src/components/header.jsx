@@ -40,7 +40,7 @@ export function Header() {
           <NavbarItem key={i}>
             <Link
               href={href}
-              className="text-white px-4 py-[6px] transition duration-75 hover:text-primary hover:scale-105"
+              className="text-white font-workSans px-4 py-[6px] transition duration-75 hover:text-primary hover:scale-105"
             >
               {title}
             </Link>
