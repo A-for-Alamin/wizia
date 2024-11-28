@@ -3,7 +3,7 @@ import Button from "./common/Button";
 
 function Hero() {
   return (
-    <section className="bg-[url(./public/img/Hero.png)] bg-center bg-cover bg-no-repeat">
+    <section className="bg-[url(/img/Hero.png)] bg-center bg-cover bg-no-repeat">
       <div className="container py-16 md:py-40 lg:py-52 text-center md:text-start">
         <p className="text-xl sm:text-2xl text-primary font-montserrat">
           AI SDRs (aiDRs)

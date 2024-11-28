@@ -3,7 +3,7 @@ import { RiCheckboxCircleLine } from "react-icons/ri";
 function Train() {
   return (
     <section className="px-4 md:px-[48px]">
-      <div className="bg-[url(./public/img/Train.png)] bg-no-repeat bg-cover rounded-3xl">
+      <div className="bg-[url(/img/Train.png)] bg-no-repeat bg-cover rounded-3xl">
         <div className="text-center py-20 space-y-[30px]">
           <div>
             <h1 className="text-4xl md:text-[40px] font-semibold text-white font-montserrat">

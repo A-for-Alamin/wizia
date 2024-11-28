@@ -1,7 +1,7 @@
 function Improve() {
   return (
     <section className="px-4 md:px-[48px]">
-      <div className="bg-[url(./public/img/improve.png)] bg-no-repeat bg-cover bg-center rounded-3xl p-5 md:p-16 space-y-[94px]">
+      <div className="bg-[url(/img/improve.png)] bg-no-repeat bg-cover bg-center rounded-3xl p-5 md:p-16 space-y-[94px]">
         <div className="w-full md:w-1/2">
           <h2 className="text-[32px] font-semibold font-montserrat text-white">
             Allocate effort where your reps make an inpact.
