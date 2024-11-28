@@ -27,3 +27,15 @@
 .swiper-pagination-bullet-active {
   background: #0ff1f6 !important;
 }
+
+
+/* Scrollbar update */
+::-webkit-scrollbar {
+  width: 6px;
+  background: #ccc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(2, 38, 42, 0.8);
+  border-radius: 10px;
+}
