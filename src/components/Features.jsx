@@ -2,7 +2,7 @@ import Card from "./common/Card";
 
 function Features() {
   return (
-    <section className="container flex justify-center flex-wrap md:flex-nowrap md:gap-6 pb-16 md:pb-28 px-4">
+    <section className="container flex justify-center flex-wrap md:flex-nowrap md:gap-6 py-16 md:py-28 px-4">
       <Card
         img="img/pen.png"
         title="You’re in Control"
