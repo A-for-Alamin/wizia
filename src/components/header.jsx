@@ -31,7 +31,7 @@ export function Header() {
     >
       <NavbarContent justify="start">
         <NavbarBrand>
-          <img src="img/Logo.png" alt="Logo" />
+          <img src="./public/img/Logo.png" alt="Logo" />
         </NavbarBrand>
       </NavbarContent>
 
